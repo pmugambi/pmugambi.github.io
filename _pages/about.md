@@ -9,6 +9,7 @@ profile:
   image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p> pmugambi@umass.edu </p>
     <p>254, 140 Governors Dr</p>
     <p>Amherst, MA, 01002</p>
 
