@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 Paper accepted for presentation at the machine learning for health (ML4H) symposium co-located with the Neurips 2024 conference. 
-<!-- <a href=""> archival version </a> -->
+<a href="https://arxiv.org/abs/2412.11472"> Archival version </a>
